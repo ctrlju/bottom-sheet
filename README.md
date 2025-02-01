@@ -1,4 +1,4 @@
-Animated bottom sheet in a sliding panel style. Built with Reanimated and responds to drag-to-expand and collapse gestures.
+Animated bottom sheet in a sliding panel style. Built with Reanimated.
 
 <br/>
 
