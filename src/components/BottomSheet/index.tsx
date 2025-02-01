@@ -11,7 +11,7 @@ import {
 import styles from "./styles";
 
 export default function BottomSheet() {
-  const screenHeight = Dimensions.get("screen").height;
+  const screenHeight = Dimensions.get("window").height;
 
   const insets = useSafeAreaInsets();
 
